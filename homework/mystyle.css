@@ -1,0 +1,45 @@
+.main_img {
+	margin : 20px auto 20px auto;
+}
+
+* {
+	font-family: 'stylish', sans-serif;
+}
+
+.item {
+	width: 500px;
+	margin : 20px auto 20px auto;
+}
+.item_price {
+	font-size : 15px;
+	margin-left : 40px;
+}
+
+.item_main {
+	font-size: 20px;
+}
+.order_main {
+	margin : 50px auto 50px 10px;
+}
+.order {
+	width : 700px;
+	margin : 20px auto 20px auto;
+	font-size : 35px;
+}
+.order_form {
+	margin-left: 10px;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  
+  border-top: 20px solid #f00;
+}
+.order_btn {
+	width: 100px;
+	margin-left: 50%;
+	margin-right: 50%;
+}
